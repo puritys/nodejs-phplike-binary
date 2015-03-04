@@ -1,0 +1,7 @@
+*.svn*
+*.swo
+*.swp
+nodejs/node_modules*
+*build/
+build/*
+coverage/
